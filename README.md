@@ -24,7 +24,7 @@ How to test
 
 3. the result of the user input will be printed out, if there is an
 
-    Note: - Inputs must follow the exact their strucuture
+    Note: - Inputs must follow the their exact strucuture
 
             - begin -> keyword
 
