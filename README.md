@@ -11,10 +11,15 @@ How to test
 2. it will ask for user input
 
     a. to begin a transaction input:    begin
+
     b. to commit a transaction input:   commit
+
     c. to rollback a transaction input: rollback
+
     d. to get a key input:              get A
+
     e. to put a key value input:        put A 1
+
     f. to quit the program input:       quit
 
 3. the result of the user input will be printed out, if there is an
@@ -32,6 +37,7 @@ How to test
             - put -> keyword space key space value
 
             - quit -> keyword
+
 
 
 - How to improve this assignment
