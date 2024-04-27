@@ -1,1 +1,28 @@
 # Data-Processing-and-Storage
+
+How to run the file
+
+1. clone the repository
+2. open the repository in the an IDE
+3. compile and run the .cpp file
+
+How to test
+1. run the file
+2. it will ask for user input
+
+    a. to begin a transaction input:    begin
+    b. to commit a transaction input:   commit
+    c. to rollback a transaction input: rollback
+    d. to get a key input:              get A
+    e. to put a key value input:        put A 1
+    f. to quit the program input:       quit
+
+3. the result of the user input will be printed out, if there is an
+
+    Note: - Inputs must follow the exact their strucuture
+            - begin -> keyword
+            - commit -> keyword
+            - rollback -> keyword
+            - get -> keyword space key
+            - put -> keyword space key space value
+            - quit -> keyword
